@@ -1,4 +1,4 @@
-# terminal-velociraptor
+# Terminal Velociraptor
 
 A collection of scripts, shell functions, and snippets to help get things done.
 
