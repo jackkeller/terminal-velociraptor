@@ -16,8 +16,8 @@ Use anything you'd like, no need for attribution but it'd be neat if you shared 
 ### Contributors
 
 - [Jack Keller](https://jackkeller.dev)
-- ... you perhaps?
+- ... [Want to Contribute?](CONTRIBUTING.md)
 
-## Issues/Contribution
+## Issues
 
-Report issues you find [here](https://github.com/jackkeller/terminal-velociraptor/issues), and submit pull requests [here](https://github.com/jackkeller/terminal-velociraptor/pulls)!
+Report issues you find [here](https://github.com/jackkeller/terminal-velociraptor/issues).
