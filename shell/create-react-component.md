@@ -2,6 +2,8 @@
 
 > You can sort of ignore everything before line 16, you could swap out different colors perhaps and modify to suit but this stuff is mostly icing atop the cake.
 
+Why have I created this? I worked for a short period on an Angular project and was amazed at the CLI tooling for creating boilerplate, and was surprised that React didn't have something similar. I may consider a legitimate CLI down the road but for now this works for me, and you can make it work for you!
+
 In this example there's an assumption that you're storing your React components inside the `src/` directory, which you should, however you could change lines 19, 23, & 24 to something like `src/components/` if you prefer them there. The world is your oyster!
 
 On line 32, you may not have this type of import, or maybe it's somewhere else, be mindful of that when you're implementing this script.
