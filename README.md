@@ -8,6 +8,10 @@ I hope to build this out over time, this is just now getting started though.
 
 - [Create React Component](shell/create-react-component.md)
 
+## Functions
+
+- [Helpful Git Functions](functions/git.md)
+
 
 ## Notes
 
